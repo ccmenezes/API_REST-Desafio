@@ -8,11 +8,13 @@ Usar o software SoapUi (https://www.soapui.org/getting-started/installing-soapui
 ----------------------------------------------------------------------------------
 
 Orientações
-1 - Fazer o download dos arquivos do projeto em https://github.com/ccmenezes/API_REST-Desafio/.
-2 - No SoapUi clicar no ícone Import.
-3 - Acessar a pasta onde foi feito o download do projeto.
-4 - Escolher o arquivo Desafio-OLX-rest-project.xml.
-5 - Clicar no botão Abrir.
+<ol type="1">
+  <li>Fazer o download dos arquivos do projeto em https://github.com/ccmenezes/API_REST-Desafio/.</li>
+  <li>No SoapUi clicar no ícone Import.</li>
+  <li>Acessar a pasta onde foi feito o download do projeto.</li>
+  <li>Escolher o arquivo Desafio-OLX-rest-project.xml.</li>
+  <li>Clicar no botão Abrir.</li>
+  </ol>
 
 Executar os testes
 1 - Em Test Suit Desafio OLX dar um duplo clique. (O sistema abre a janela (Test Suit Desafio OLX)
