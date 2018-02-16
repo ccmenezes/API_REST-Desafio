@@ -17,6 +17,8 @@ Orientações
   </ol>
 
 Executar os testes
-1 - Em Test Suit Desafio OLX dar um duplo clique. (O sistema abre a janela (Test Suit Desafio OLX)
-2 - Clicar no botão Play >.
-3 - Para inspecionar os testes executados basta dar um duplo clique na suíte desejada.
+<ol type="1">
+<li>Em Test Suit Desafio OLX dar um duplo clique. (O sistema abre a janela (Test Suit Desafio OLX)</li>
+<li>Clicar no botão Play >. </li>
+  <li>Para inspecionar os testes executados basta dar um duplo clique na suíte desejada.</li>
+</ol>
